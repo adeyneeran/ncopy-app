@@ -13,11 +13,11 @@ export default function Home() {
 
   return (
     <main style={{ padding: 20, fontFamily: "sans-serif", background: "#000", color: "#fff", minHeight: "100vh" }}>
-      <h1>ncopy - Paste & Copy</h1>
+      <h1>ncopy - naija copy Trading </h1>
       <textarea
         value={text}
         onChange={(e) => setText(e.target.value)}
-        placeholder="Paste your text here..."
+        placeholder="ncopy-app-x1nx-60eq64iw7-adeyneeran2-4785s-projects.vercel.app"
         style={{ width: "100%", height: 200, padding: 12, fontSize: 16, borderRadius: 10 }}
       />
       <br /><br />
